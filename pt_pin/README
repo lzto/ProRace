@@ -1,0 +1,8 @@
+PT_PIN
+-----------------
+Sept 2015 Tong Zhang <ztong@vt.edu>
+----------------
+
+This pintool simulates the Intel PT by intercepting all branch/call instruction
+and record all taken branches and architecture status.
+
